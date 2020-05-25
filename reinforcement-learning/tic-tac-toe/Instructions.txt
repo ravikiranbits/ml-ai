@@ -1,0 +1,6 @@
+Please download Q-states for Agent and Environment from the following URL:
+
+https://www.dropbox.com/sh/o8lrxy52wpohjr2/AABHSuelbge4L0TruNEWu4h1a?dl=0
+
+Agent - oddPolicy.pkl
+Environment - evenPolicy.pkl

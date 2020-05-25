@@ -1,0 +1,8 @@
+Process:
+========
+1. python nlu_model.py
+2. python train_init.py
+3. python train_online.py
+4. python App_nlu.py (optional)
+5. python run_app.py (optional)
+6. python dialogue_management_model.py

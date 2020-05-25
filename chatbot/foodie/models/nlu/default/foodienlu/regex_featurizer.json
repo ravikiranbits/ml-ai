@@ -1,0 +1,34 @@
+[
+    {
+        "name": "budget",
+        "pattern": "((^)(low|moderate|high))[^\\s]*"
+    },
+    {
+        "name": "budget",
+        "pattern": "[0-9]{1,}"
+    },
+    {
+        "name": "cuisine",
+        "pattern": "(Mexican|mexican|American|american|Italian|italian|Chinese|chinese|south indian| South Indian|north indian|North Indian)$"
+    },
+    {
+        "name": "email",
+        "pattern": "<mailto:[a-zA-Z0-9_.+]+@[a-zA-Z]+[.][a-zA-Z0-9-.]+>$"
+    },
+    {
+        "name": "email",
+        "pattern": "[a-zA-Z0-9_.+]+@[a-zA-Z]+[.][a-zA-Z0-9-.]+$"
+    },
+    {
+        "name": "greet",
+        "pattern": "hey[^\\s]*"
+    },
+    {
+        "name": "greet",
+        "pattern": "hi[^\\s]*"
+    },
+    {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+    }
+]
